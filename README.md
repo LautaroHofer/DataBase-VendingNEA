@@ -29,4 +29,4 @@ Para levantar esta base de datos en tu entorno local:
 **Lautaro Hofer**
 
 ---
-*Este proyecto es parte de crecimiento en el manejo de Bases de Datos.*
+*Este proyecto es parte de mi crecimiento en el manejo de Bases de Datos.*
