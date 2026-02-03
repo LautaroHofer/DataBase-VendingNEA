@@ -12,7 +12,7 @@ El proyecto fue desarrollado utilizando **Microsoft SQL Server** y exportado des
 
 ## 📂 Contenido del Repositorio
 
-* `script.sql`: Script completo que incluye la creación de la base de datos, tablas, relaciones (Foreign Keys) y datos de prueba.
+* `DataBase-VendingNEA.sql`: Script completo que incluye la creación de la base de datos, tablas, relaciones (Foreign Keys) y datos de prueba.
 
 ## 🛠️ Instrucciones de Instalación (Restaurar Base de Datos)
 
